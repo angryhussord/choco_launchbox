@@ -15,7 +15,7 @@
     <copyright></copyright>
     <licenseUrl>http://www.launchbox-app.com/about</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>http://cdn.rawgit.com/__CHOCO_PKG_MAINTAINER_REPO__/master/icons/__NAME__.png</iconUrl>
+    <iconUrl>https://cdn.rawgit.com/angryhussord/choco_launchbox/master/launchbox_icon.PNG</iconUrl>
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
