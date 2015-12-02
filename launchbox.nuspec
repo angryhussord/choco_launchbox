@@ -5,7 +5,7 @@
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>launchbox</id>
     <title>LaunchBox</title>
-    <version>4.6</version>
+    <version>5.5</version>
     <authors>Jason Carr</authors>
     <owners>angryhussord</owners>
     <summary>LaunchBox was originally built as an attractive frontend to DOSBox, but has since expanded to support both modern PC games and emulated console platforms.</summary>
