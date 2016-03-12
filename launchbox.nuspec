@@ -11,6 +11,9 @@
     <summary>LaunchBox was originally built as an attractive frontend to DOSBox, but has since expanded to support both modern PC games and emulated console platforms.</summary>
     <description>LaunchBox includes automated import processes for Steam, D-Fend Reloaded, and ROM files in order to help get you up and running as quickly as possible. Game box-art and metadata is automatically downloaded from TheGamesDB.net, a community-based online database that allows anyone to contribute. More import processes are planned for the near future.</description>
     <projectUrl>http://www.launchbox-app.com/</projectUrl>
+    <packageSourceUrl>https://github.com/angryhussord/choco_launchbox</packageSourceUrl>
+    <mailingListUrl>https://www.launchbox-app.com/forum</mailingListUrl>
+    <bugTrackerUrl>https://bitbucket.org/jasondavidcarr/launchbox/issues/new</bugTrackerUrl>
     <tags>LaunchBox emulation front-end DOSBox gaming games collection organize</tags>
     <copyright></copyright>
     <licenseUrl>http://www.launchbox-app.com/about</licenseUrl>
